@@ -26,4 +26,4 @@ To ensure that all of the librares are download I included a code that could be 
 The libraries that are required include: NumPy (For the array changes and the FFT), Matplotlib (For the display) and SciPy (For the constant and verification)
 
 ## To Run The Code
-In order to run the code all you need to do is either clone the repository or just copy down the code. If you just copy down the code in Project.ipynb, make sure to also run the libraries download in your repository. The important files in the repository are the README.md and Project.ipynb which holds the information about the code and then the fully functioning code at the end.
+In order to run the code, just copy down the code. If you copy down the code in Project.ipynb, make sure to also run the libraries download in your repository. The important files in the repository are the README.md and Project.ipynb which holds the information about the code and then the fully functioning code at the end.
