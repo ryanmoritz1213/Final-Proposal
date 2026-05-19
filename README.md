@@ -12,8 +12,7 @@ In this code I use the Fast Fourier Transform to simulate the diffraction patter
 I calculate the intensity profile and measure the width at 13.5% level apposed a 50% ful wave half max value to determine the uncertainty product. This will allow for a more accurate measurement.
 
 # Expected Outputs
-From this code there are a couple of different outputs. For each source in the file, there will be one output with the laser type, momentum spread, uncertainty product (This is what we are finding), the uncertainty limit and whether the limit was satisfied.
-
+From this code there are a couple of different outputs. For each source in the file, there will be one output with the laser type, momentum spread, uncertainty product (This is what we are finding), the uncertainty limit and whether the limit was satisfied. There are also two graph outputs expected. As mentioned these are the graph output.png's in this repository. They will paste below the code however.
 
 ## Downloading External Libraries
 To ensure that all of the librares are download I included a code that could be ran to download them all in Project.ipynb 
