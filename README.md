@@ -2,7 +2,7 @@
 In this project I will be making a coded simulation of a physical lab experiment that I had done in another class. In this class I was confirming the uncertainty princple using lenses and lasers. With this being said, this coded simulation will use fft to try and simulate the lab results. With a Delta x value, one will be able to simulate a Delta Px value and then confirm the uncertainty principle. The code will do all of this. 
 
 # Important Sections
-There are only three main parts of this repository: README.md, FinalProject.ipynb,LICENSE, and uncertaintysetup.png. The readme give a dense text outline for this project. The finalproject gives a more broad explanation and the code for the simulation along with the external libraries download. The License section highlights the lisencing part. The uncertaintysetup is a picture of my physical lab setup.
+There are only three main parts of this repository: README.md, FinalProject.ipynb,LICENSE, and uncertaintysetup.png. The readme give a dense text outline for this project. The finalproject gives a more broad explanation and the code for the simulation along with the external libraries download. The License section highlights the lisencing part. The uncertaintysetup is a picture of my physical lab setup. There are also the two graph outputs. Output1.png being violet and Output2.png being red.
 
 ## Code Setup and Precursor
 I will be putting a bit of code at a time to keep it more organized. At the end of each peice of code I will explain the point of the code and then a the very end I will have the whole code. This code will be able to simulate the experiment that I had done in class. A person with the code should be able to create new sources. Said person should also then be able to change $\Delta x$. 
